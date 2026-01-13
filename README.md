@@ -36,4 +36,3 @@ The project follows the **CRISP-DM framework**:
 - Highlighted patterns and correlations affecting insurance costs
 - Provided data-backed insights for pricing strategy improvement
 
-## 📁 Project Structure
